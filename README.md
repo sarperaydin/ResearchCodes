@@ -1,5 +1,5 @@
-# Codes for DFP-IVL
-My Codes for My Papers
+# My Codes for My Papers
+Author: Sarper Aydin
 
 
 1) The uploaded MATLAB Codes is a sample code written by Sarper Aydin for the numerical result of our recent paper,
