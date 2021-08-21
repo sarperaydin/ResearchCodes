@@ -2,7 +2,7 @@
 Author: Sarper Aydin
 
 
-1) The uploaded MATLAB Codes is a sample code written by Sarper Aydin for the numerical result of our recent paper,
+1) The uploaded MATLAB Codes is a sample written by Sarper Aydin for the numerical result of our recent paper,
 (Decentralized Inertial Best-Response with Voluntary and Limited Communication in Random Communication Networks found at https://arxiv.org/abs/2106.07079).The main file is DFP_March20.m, you can run the code together with provided other MATLAB functions.
 
 
