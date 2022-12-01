@@ -9,4 +9,6 @@ Author: Sarper Aydin
 
 3) The code under the folder is a Python code written in Jupyter Notebook to produce the results for our paper (Decentralized Learning-aware Communication and Communication-aware Mobility Control for the Target Assignment Problem found at https://arxiv.org/abs/2003.03225).
 
+4) The code whose its name starts with Lake Game, is a introductory code for our recent study on Networked Policy Gradient Play.
+
 Please let me know if you have any questions and/or any suggestions by contacting me at sarperaydin@gmail.com.
