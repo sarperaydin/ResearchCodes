@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Codes for Numerical Experiments in My Papers
+message: >-
+  The author is Sarper Aydin. You can reach by the
+  email sarperaydin@gmail.com
+type: software
+authors:
+  - given-names: Sarper
+    family-names: Aydin
+    email: sarper.aydin@tamu.edu
+    affiliation: Texas A&M Universirty
